@@ -3,6 +3,10 @@
 
 //Recordar que se pueden apoyar de este código pero deben
 //mejorarlo porque tiene sus detalles en el Serial Monitor
+//debido a que hay que seleccionar en elgunas partes con 2 dígitos
+//de manera rápida, por otro lado, al seleccionar la velocidad
+//este no guarda el seleccionado y muestra otra velocidad, 
+//por lo que hay que corregirlo.
 
 
 // Ejemplo simple de clase Motor para ESP32 usando PWM (ledc)
