@@ -8,7 +8,7 @@
 //este no guarda el seleccionado y muestra otra velocidad, 
 //por lo que hay que corregirlo.
 
-
+// Actividad 8: Control de motores con ESP32 usando PWM y selección de velocidad fija
 // Ejemplo simple de clase Motor para ESP32 usando PWM (ledc)
 // Permite seleccionar motor 1 o 2, dirección (IZQUIERDA/DERECHA) y velocidad (0-255)
 
